@@ -1,3 +1,5 @@
 [submodule "cores"]
 	path = cores
 	url = git@github.com:Spencer-Sawyer/cores.git
+	branch = NKRO-1
+
