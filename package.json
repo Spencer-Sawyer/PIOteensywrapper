@@ -1,0 +1,11 @@
+{
+  "name": "framework-arduinoteensy",
+  "version": "1.158.0",
+  "description": "Arduino Wiring-based Framework for Teensy boards",
+  "keywords": [
+    "framework",
+    "arduino",
+    "teensy"
+  ]
+
+}
